@@ -1,6 +1,4 @@
-# Express Crash Course
-
-> Files for the YouTube crash course @ https://www.youtube.com/watch?v=L72fhGm1tfE
+# Express
 
 - Setup & Install / Simple Server
 - Simple API
